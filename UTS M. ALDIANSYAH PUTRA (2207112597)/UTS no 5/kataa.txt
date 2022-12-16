@@ -1,0 +1,13 @@
+kucing
+harimau
+singa
+kangguru
+anjing
+hiu 
+paus
+jerapah
+lele
+rusa
+kambing
+sapi
+kuda
